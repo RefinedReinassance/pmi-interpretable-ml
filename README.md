@@ -26,13 +26,13 @@ pmi-interpretable-ml/
 
 ---
 
-## ▶️ Run notebooks in Google Colab
 | Notebook | Description | Open |
 |-----------|--------------|------|
-| 01_data_generation | Create the synthetic dataset | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<RefinedReinassance>/pmi-interpretable-ml/blob/main/notebooks/01_data_generation.ipynb) |
-| 02_exploratory_analysis | EDA + feature engineering | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<RefinedReinassance>/pmi-interpretable-ml/blob/main/notebooks/02_exploratory_analysis.ipynb) |
-| 03_model_training_and_shap | Model training + SHAP | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<RefinedReinassance>/pmi-interpretable-ml/blob/main/notebooks/03_model_training_and_shap.ipynb) |
-| 04_ebm_and_interpretability | Interpretable models (EBM/GAM) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<RefinedReinassance>/pmi-interpretable-ml/blob/main/notebooks/04_ebm_and_interpretability.ipynb) |
+| 01_data_generation | Synthetic data creation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RefinedReinassance/pmi-interpretable-ml/blob/main/notebooks/01_data_generation.ipynb) |
+| 02_exploratory_analysis | EDA & feature engineering | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RefinedReinassance/pmi-interpretable-ml/blob/main/notebooks/02_exploratory_analysis.ipynb) |
+| 03_model_training_and_shap | Model training + SHAP | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RefinedReinassance/pmi-interpretable-ml/blob/main/notebooks/03_model_training_and_shap.ipynb) |
+| 04_ebm_and_interpretability | Interpretable ML (EBM/GAM) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RefinedReinassance/pmi-interpretable-ml/blob/main/notebooks/04_ebm_and_interpretability.ipynb) |
+
 
 ---
 

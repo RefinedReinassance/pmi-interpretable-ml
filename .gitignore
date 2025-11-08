@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+data/*.npy
+models/
+interpretability_figures/
+*.pkl
+*.joblib
+.DS_Store
+Thumbs.db

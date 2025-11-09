@@ -22,16 +22,20 @@ cd pmi-interpretable-ml
 pip install -r requirements.txt
 ```
 
-Run the notebooks in order (01 → 04) to reproduce all experiments and visualizations.
+Run the notebooks in order (**01 → 04**) to reproduce all experiments and visualizations.
+
 pmi-interpretable-ml/
-├─ data/      # Synthetic & processed datasets
-├─ notebooks/                # 01–04 Colab notebooks
-├─ models/                   # Saved trained models
-├─ interpretability_figures/  # SHAP & EBM visualizations
-├─ report/                   # Final capstone report
+├─ data/ # Synthetic & processed datasets
+├─ notebooks/ # 01–04 Colab notebooks
+├─ models/ # Saved trained models
+├─ interpretability_figures/ # SHAP & EBM visualizations
+├─ report/ # Final capstone report
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
+
+
+
 
 📘 Notebooks
 | Notebook                    | Description                                           | Open in Colab                                                                                                                                                                                                        |
@@ -79,11 +83,14 @@ EBM Feature Plot: Confirms monotonic relationship between temperature decay and 
 This work forms part of the Sol Plaatje University Capstone Project (NMST731).
 It aims to bridge the gap between forensic pathology and interpretable artificial intelligence by producing a scientifically grounded, transparent predictive framework.
 
-📧 Contact
-Student: Happy Kgatle
-Student Number: 202230990
-Supervisor: Dr Silas Verkijika
-Institution: Sol Plaatje University
+
+📧 **Contact**
+
+**Student:** Happy Kgatle  
+**Student Number:** 202230990  
+**Supervisor:** Dr Silas Verkijika  
+**Institution:** Sol Plaatje University
+
 
 🧾 Citation
 

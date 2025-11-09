@@ -82,8 +82,11 @@ It aims to bridge the gap between forensic pathology and interpretable artificia
 📧 Contact
 
 Student: Happy Kgatle
+
 Student Number: 202230990
+
 Supervisor: Dr Silas Verkijika
+
 Institution: Sol Plaatje University
 
 🧾 Citation

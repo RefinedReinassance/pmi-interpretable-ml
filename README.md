@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 Run the notebooks in order (**01 → 04**) to reproduce all experiments and visualizations.
-
+```
 pmi-interpretable-ml/
 ├─ data/ # Synthetic & processed datasets
 ├─ notebooks/ # 01–04 Colab notebooks
@@ -33,7 +33,7 @@ pmi-interpretable-ml/
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
-
+```
 
 
 📘 Notebooks
